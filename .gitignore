@@ -1,0 +1,17 @@
+# Build output
+/PBO_EventIn/build/
+/PBO_EventIn/dist/
+/PBO_EventIn/nbproject/private/
+
+# IDE / OS
+nbproject/private/
+.idea/
+*.iml
+Thumbs.db
+.DS_Store
+
+# Compiled classes
+*.class
+
+# Local database overrides
+db.properties
